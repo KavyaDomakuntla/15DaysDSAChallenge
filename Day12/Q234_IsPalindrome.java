@@ -7,7 +7,7 @@
       ListNode(int val, ListNode next) { this.val = val; this.next = next; }
   }
  
-public class Solution {
+public class Q234_IsPalindrome{
     public boolean isPalindrome(ListNode head) {
         if(head==null || head.next==null)
         return true;
