@@ -1,6 +1,6 @@
 package Day2;
 
-public class Q1_Buy_And_SellStock {
+public class Q121_Buy_And_SellStock {
     public int maxProfit(int[] prices) {
         int min=Integer.MAX_VALUE;
         int maxProfit=0;

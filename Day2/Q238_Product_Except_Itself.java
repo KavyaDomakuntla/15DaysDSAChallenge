@@ -1,6 +1,6 @@
 package Day2;
 
-public class Q2_Product_Except_Itself {
+public class Q238_Product_Except_Itself {
     public int[] productExceptSelf(int[] nums) {
         int n=nums.length;
         int product=1;

@@ -1,6 +1,6 @@
 package Day2;
 
-public class Q3_Valid_Palindrome {
+public class Q125_Valid_Palindrome {
     public boolean isPalindrome(String s) {
         StringBuffer sb=new StringBuffer();
         s=s.toLowerCase();

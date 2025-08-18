@@ -2,7 +2,7 @@ package Day4;
 
 import java.util.HashMap;
 
-public class Q1_SubarraySumEqualsK {
+public class Q560_SubarraySumEqualsK {
     public int subarraySum(int[] nums, int k) {
         /*
         Prefix sum - Hashmap
